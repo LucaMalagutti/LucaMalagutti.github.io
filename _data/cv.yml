@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 31st January 1998
     - name: Languages
-      value: English, Italian
+      value: English, Italian, German (beginner)
 
 - title: Education
   type: time_table
@@ -23,8 +23,12 @@
   type: time_table
   contents:
     - title: Teaching Assistant
-      institution: Fall Semester 2022 - Natural Language Processing <a href="https://rycolab.io/classes/intro-nlp-f21/" target="_blank">course</a>, ETH Zurich
-      year: Sep 2022 - Ongoing
+      institution: Spring Semester 2023 - Large Language Models <a href="https://rycolab.io/classes/llm-s23/" target="_blank">course</a>, ETH Zurich
+      year: Sep 2022 - Feb 2023
+
+    - title: Teaching Assistant
+      institution: Fall Semester 2022 - Natural Language Processing <a href="https://rycolab.io/classes/intro-nlp-f22/" target="_blank">course</a>, ETH Zurich
+      year: Sep 2022 - Feb 2023
 
     - title: Data Science Intern
       institution:  <a href="https://www.novus.com" target="_blank">SEI Novus</a>
