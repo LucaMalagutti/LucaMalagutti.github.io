@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Luca
 middle_name: 
 last_name: Malagutti
-email: lmalagutti@student.ethz.ch
+email: lmalagutti@ethz.ch
 description:
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
@@ -69,7 +69,7 @@ github_username: LucaMalagutti # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Malagutti_Luca # your Twitter handle
 linkedin_username: lucamalagutti # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: EBl6LzMAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
