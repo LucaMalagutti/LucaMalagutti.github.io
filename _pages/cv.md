@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/malagutti_cv.pdf/
+permalink: /assets/pdf/malagutti_cv.pdf
 title: CV
 nav: true
 nav_order: 2
