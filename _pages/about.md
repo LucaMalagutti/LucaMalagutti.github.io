@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an Applied Scientist at Thomson Reuters Labs. 
+I'm a Senior Applied Scientist at Thomson Reuters, where I build AI systems for Reuters News. 
 
 Before this, I was a Research Assistant at [Rycolab](https://rycolab.io/) at [ETH Zurich](https://ethz.ch/en.html), supervised by Prof. Ryan Cotterell. I completed my Bachelor's in Computer Engineering at the [Polytechnic University of Milan](https://polimi.it/en) and my Master's degree in Computer Science at ETH Zurich.
 
